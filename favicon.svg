@@ -1,4 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E8C97A"/>
+      <stop offset="100%" stop-color="#9A7A32"/>
+    </linearGradient>
+  </defs>
   <rect width="32" height="32" rx="6" fill="#0A0A0A"/>
-  <text x="5" y="23" font-family="serif" font-size="18" font-weight="700" fill="#C9A84C">LC</text>
+  <path d="M8,2 L24,2 L29,7 L29,22 C29,29 16,32 16,32 C16,32 3,29 3,22 L3,7 Z" fill="url(#fg)"/>
+  <path d="M9,4 L23,4 L27,8 L27,22 C27,28 16,30 16,30 C16,30 5,28 5,22 L5,8 Z" fill="#0A0A0A"/>
+  <path d="M10,6 L22,6 L26,10 L26,22 C26,27 16,29 16,29 C16,29 6,27 6,22 L6,10 Z" fill="#111111"/>
+  <text x="16" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#C9A84C" letter-spacing="0.5">LC</text>
+  <polygon points="16,6 17,9 16,11 15,9" fill="#C9A84C" opacity="0.9"/>
+  <polygon points="12,2 13,0 14,2" fill="url(#fg)"/>
+  <polygon points="18,2 19,0 20,2" fill="url(#fg)"/>
 </svg>

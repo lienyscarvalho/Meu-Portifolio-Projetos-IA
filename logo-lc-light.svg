@@ -1,0 +1,40 @@
+<svg width="480" height="160" viewBox="0 0 480 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gG2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C9A84C"/>
+      <stop offset="100%" stop-color="#7A5F20"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="160" fill="#F5F0E8"/>
+  <g transform="translate(16, 8)">
+    <path d="M62,4 L106,4 L118,18 L118,72 C118,100 90,122 84,126 C78,122 50,100 50,72 L50,18 Z" fill="#C9A84C" stroke="#9A7A32" stroke-width="1"/>
+    <path d="M62,10 L106,10 L113,22 L113,72 C113,97 88,117 84,121 C80,117 55,97 55,72 L55,22 Z" fill="#F5F0E8" stroke="#C9A84C" stroke-width="0.5"/>
+    <path d="M64,15 L104,15 L110,26 L110,72 C110,94 86,112 84,116 C82,112 58,94 58,72 L58,26 Z" fill="#FAFAF6"/>
+    <line x1="58" y1="46" x2="110" y2="46" stroke="#C9A84C" stroke-width="0.5" opacity="0.5"/>
+    <text x="84" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#7A5F20" letter-spacing="3">LC</text>
+    <polygon points="84,17 86,21 84,25 82,21" fill="#C9A84C"/>
+    <line x1="66" y1="88" x2="84" y2="95" stroke="#9A7A32" stroke-width="0.8" opacity="0.6"/>
+    <line x1="102" y1="88" x2="84" y2="95" stroke="#9A7A32" stroke-width="0.8" opacity="0.6"/>
+    <circle cx="84" cy="95" r="2" fill="#9A7A32" opacity="0.7"/>
+    <circle cx="69" cy="56" r="1.2" fill="#C9A84C" opacity="0.5"/>
+    <circle cx="99" cy="56" r="1.2" fill="#C9A84C" opacity="0.5"/>
+    <polygon points="84,118 87,112 84,114 81,112" fill="#C9A84C" opacity="0.8"/>
+    <path d="M48,35 C40,35 36,42 40,48 C44,54 50,50 50,44" fill="none" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+    <circle cx="40" cy="48" r="2" fill="#C9A84C" opacity="0.3"/>
+    <path d="M120,35 C128,35 132,42 128,48 C124,54 118,50 118,44" fill="none" stroke="#C9A84C" stroke-width="0.8" opacity="0.5"/>
+    <circle cx="128" cy="48" r="2" fill="#C9A84C" opacity="0.3"/>
+    <polygon points="74,4 76,0 78,4" fill="#C9A84C"/>
+    <polygon points="83,2 84,0 85,2 84.5,4 83.5,4" fill="#C9A84C"/>
+    <polygon points="90,4 92,0 94,4" fill="#C9A84C"/>
+  </g>
+  <g transform="translate(160, 0)">
+    <text x="0" y="58" font-family="Georgia, serif" font-size="42" font-weight="700" fill="url(#gG2)" letter-spacing="1">LC</text>
+    <rect x="0" y="67" width="240" height="0.8" fill="#9A7A32" opacity="0.4"/>
+    <text x="2" y="88" font-family="Georgia, serif" font-size="15" font-weight="400" fill="#7A5F20" letter-spacing="5">CONSULTORIA</text>
+    <text x="2" y="108" font-family="Georgia, serif" font-size="11" font-weight="400" fill="#B8912A" letter-spacing="6.5">DE NEGÓCIOS</text>
+    <rect x="0" y="118" width="100" height="0.5" fill="#C9A84C" opacity="0.4"/>
+    <polygon points="103,115 105,118 103,121 101,118" fill="#C9A84C" opacity="0.6"/>
+    <rect x="107" y="118" width="100" height="0.5" fill="#C9A84C" opacity="0.4"/>
+    <text x="104" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="10" font-style="italic" fill="#9A7A32" letter-spacing="1.5">Excelência em Gestão e Inovação</text>
+  </g>
+</svg>
